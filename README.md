@@ -1,3 +1,9 @@
+# Description of this mini-project using React
+
+We will add a description and the trailer link (embed video link) to the object movie.
+By clicking on a movie card, it will take you to the movie description and trailer page.
+In the description page, I can navigate back to the home page.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
